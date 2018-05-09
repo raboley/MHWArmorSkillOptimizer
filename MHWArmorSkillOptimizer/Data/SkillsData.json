@@ -1,0 +1,1956 @@
+{
+ "Skill": [
+  {
+   "skillName": "Paralysis Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces the duration of paralysis by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the duration of paralysis by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents paralysis."
+    }
+   ],
+   "jewelName": "Antipara Jewel 1"
+  },
+  {
+   "skillName": "Sleep Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces the duration of sleep by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the duration of sleep by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents sleep."
+    }
+   ],
+   "jewelName": "Pep Jewel 1"
+  },
+  {
+   "skillName": "Stun Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces the duration of stun by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the duration of stun by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents stun."
+    }
+   ],
+   "jewelName": "Steadfast Jewel 1"
+  },
+  {
+   "skillName": "Muck Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces limits on movement speed and evasion."
+    }
+   ]
+  },
+  {
+   "skillName": "Blast Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Delays blastblight and reduces blast damage."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Greatly delays blastblight and greatly reduces blast damage."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents blastblight."
+    }
+   ],
+   "jewelName": "Antiblast Jewel 1"
+  },
+  {
+   "skillName": "Bleeding Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces damage while bleeding."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Greatly reduces damage while bleeding."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents bleeding."
+    }
+   ],
+   "jewelName": "Suture Jewel 1"
+  },
+  {
+   "skillName": "Iron Skin",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces the duration of Defense Down by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the duration of Defense Down by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents Defense Down."
+    }
+   ],
+   "jewelName": "Def Lock Jewel 1"
+  },
+  {
+   "skillName": "Earplugs",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Slightly reduces the effects of weak monster roars."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the effects of weak monster roars."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Nullifies weak monster roars."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Nullifies weak monster roars and reduces the effects of strong monster roars."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Nullifies weak and strong monster roars."
+    }
+   ],
+   "jewelName": "Earplug Jewel 3"
+  },
+  {
+   "skillName": "Windproof",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Slightly reduces the effects of minor wind pressure."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the effects of minor wind pressure."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Negates minor wind pressure."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Negates minor wind pressure and reduces the effects of major wind pressure."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Negates minor and major wind pressure."
+    }
+   ],
+   "jewelName": "Wind Resist Jewel 2"
+  },
+  {
+   "skillName": "Tremor Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Nullifies minor ground tremors."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Nullifies minor ground tremors and reduces the effects of major ground tremors."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Nullifies minor and major ground tremors."
+    }
+   ],
+   "jewelName": "Footing Jewel 2"
+  },
+  {
+   "skillName": "Dungmaster",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Makes slinger dung pods more effective at making monsters run away."
+    }
+   ]
+  },
+  {
+   "skillName": "Effluvial Expert",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Nullifies damage from effluvia and reduces damage from acids."
+    }
+   ]
+  },
+  {
+   "skillName": "Heat Guard",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Nullfies heat damage."
+    }
+   ]
+  },
+  {
+   "skillName": "Attack Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Attack +3"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Attack +6"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Attack +9"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Attack +12 Affinity +5%"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Attack +15 Affinity +5%"
+    },
+    {
+     "levelName": "Lv6",
+     "levelDescription": "Attack +18 Affinity +5%"
+    },
+    {
+     "levelName": "Lv7",
+     "levelDescription": "Attack +21 Affinity +5%"
+    }
+   ],
+   "jewelName": "Attack Jewel 1"
+  },
+  {
+   "skillName": "Defense Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Defense +5"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Defense +10"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Defense +15"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Defense +20 All Elemental Resistances +3"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Defense +25 All Elemental Resistances +3"
+    },
+    {
+     "levelName": "Lv6",
+     "levelDescription": "Defense +30 All Elemental Resistances +3"
+    },
+    {
+     "levelName": "Lv7",
+     "levelDescription": "Defense +35 All Elemental Resistances +3"
+    }
+   ],
+   "jewelName": "Defense Jewel 1"
+  },
+  {
+   "skillName": "Health Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Health +15"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Health +30"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Health +50"
+    }
+   ],
+   "jewelName": "Vitality Jewel 1"
+  },
+  {
+   "skillName": "Recovery Up",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Recovery +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Recovery +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Recovery +30%"
+    }
+   ],
+   "jewelName": "Medicine Jewel 1"
+  },
+  {
+   "skillName": "Recovery Speed",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Doubles the speed at which you heal recoverable damage."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Triples the speed at which you heal recoverable damage."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Quadruples the speed at which you heal recoverable damage."
+    }
+   ],
+   "jewelName": "Recovery Jewel 1"
+  },
+  {
+   "skillName": "Fire Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Fire resistance +6"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Fire resistance +12"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Fire resistance +20 Defense +10"
+    }
+   ],
+   "jewelName": "Fire Res Jewel 1"
+  },
+  {
+   "skillName": "Water Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Water resistance +6"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Water resistance +12"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Water resistance +20 Defense +10"
+    }
+   ],
+   "jewelName": "Water Res Jewel 1"
+  },
+  {
+   "skillName": "Ice Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Ice resistance +6"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Ice resistance +12"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Ice resistance +20 Defense +10"
+    }
+   ],
+   "jewelName": "Ice Res Jewel 1"
+  },
+  {
+   "skillName": "Thunder Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Thunder resistance +6"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Thunder resistance +12"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Thunder resistance +20 Defense +10"
+    }
+   ],
+   "jewelName": "Thunder Res Jewel 1"
+  },
+  {
+   "skillName": "Dragon Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Dragon resistance +6"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Dragon resistance +12"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Dragon resistance +20 Defense +10"
+    }
+   ],
+   "jewelName": "Dragon Res Jewel 1"
+  },
+  {
+   "skillName": "Blight Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces the duration of all elemental blights by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces the duration of all elemental blights by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Nullifies all elemental blights."
+    }
+   ],
+   "jewelName": "Resistor Jewel 1"
+  },
+  {
+   "skillName": "Fire Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Fire attack +30"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Fire attack +60"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Fire attack +100"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Fire attack +5% Bonus: +100"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Fire attack +10% Bonus: +100"
+    }
+   ],
+   "jewelName": "Blaze Jewel 1"
+  },
+  {
+   "skillName": "Water Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Water attack +30"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Water attack +60"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Water attack +100"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Water attack +5% Bonus: +100"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Water attack +10% Bonus: +100"
+    }
+   ],
+   "jewelName": "Stream Jewel 1"
+  },
+  {
+   "skillName": "Ice Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Ice attack +30"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Ice attack +60"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Ice attack +100"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Ice attack +5% Bonus: +100"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Ice attack +10% Bonus: +100"
+    }
+   ],
+   "jewelName": "Frost Jewel 1"
+  },
+  {
+   "skillName": "Thunder Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Thunder attack +30"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Thunder attack +60"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Thunder attack +100"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Thunder attack +5% Bonus: +100"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Thunder attack +10% Bonus: +100"
+    }
+   ],
+   "jewelName": "Bolt Jewel 1"
+  },
+  {
+   "skillName": "Dragon Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Dragon attack +30"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Dragon attack +60"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Dragon attack +100"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Dragon attack +5% Bonus: +100"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Dragon attack +10% Bonus: +100"
+    }
+   ],
+   "jewelName": "Dragon Jewel 1"
+  },
+  {
+   "skillName": "Poison Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Poison buildup +5% Bonus: +10"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Poison buildup +10% Bonus: +10"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Poison buildup +20% Bonus: +10"
+    }
+   ],
+   "jewelName": "Venom Jewel 1"
+  },
+  {
+   "skillName": "Paralysis Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Paralysis buildup +5% Bonus: +10"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Paralysis buildup +10% Bonus: +10"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Paralysis buildup +20% Bonus: +10"
+    }
+   ],
+   "jewelName": "Paralyzer Jewel 1"
+  },
+  {
+   "skillName": "Sleep Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Sleep buildup +5% Bonus: +10"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Sleep buildup +10% Bonus: +10"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Sleep buildup +20% Bonus: +10"
+    }
+   ],
+   "jewelName": "Sleep Jewel 1"
+  },
+  {
+   "skillName": "Blast Attack",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Blast buildup +5% Bonus: +10"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Blast buildup +10% Bonus: +10"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Blast buildup +20% Bonus: +10"
+    }
+   ],
+   "jewelName": "Blast Jewel 1"
+  },
+  {
+   "skillName": "Normal Shots",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the power of normal ammo and normal arrows."
+    }
+   ],
+   "jewelName": "Forceshot Jewel 3"
+  },
+  {
+   "skillName": "Piercing Shots",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the power of piercing ammo and Dragon Piercer."
+    }
+   ],
+   "jewelName": "Pierce Jewel 3"
+  },
+  {
+   "skillName": "Spread/Power Shots",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the power of spread ammo and power shot arrows."
+    }
+   ],
+   "jewelName": "Spread Jewel 3"
+  },
+  {
+   "skillName": "Free Elem/Ammo Up",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Draws out 33% of hidden element and expands clip size for some ammo."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Draws out 66% of hidden element and expands clip size for some ammo."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Draws out 100% of hidden element and expands clip size for some ammo."
+    }
+   ],
+   "jewelName": "Release Jewel 3"
+  },
+  {
+   "skillName": "Critical Eye",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Affinity +3%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Affinity +6%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Affinity +10%"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Affinity +15%"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Affinity +20%"
+    },
+    {
+     "levelName": "Lv6",
+     "levelDescription": "Affinity +25%"
+    },
+    {
+     "levelName": "Lv7",
+     "levelDescription": "Affinity +30%"
+    }
+   ],
+   "jewelName": "Expert Jewel 1"
+  },
+  {
+   "skillName": "Critical Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases damage dealt by critical hits by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Increases damage dealt by critical hits by 35%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Increases damage dealt by critical hits by 40%."
+    }
+   ],
+   "jewelName": "Critical Jewel 2"
+  },
+  {
+   "skillName": "Weakness Exploit",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Attacks that hit weak spots have 15% increased affinity."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Attacks that hit weak spots have 30% increased affinity."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Attacks that hit weak spots have 50% increased affinity."
+    }
+   ],
+   "jewelName": "Tenderizer Jewel 2"
+  },
+  {
+   "skillName": "Focus",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases gauge fill rate by 5% and reduces charge times by 5%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Increases gauge fill rate by 10% and reduces charge times by 10%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Increases gauge fill rate by 20% and reduces charge times by 20%."
+    }
+   ],
+   "jewelName": "Charger Jewel 2"
+  },
+  {
+   "skillName": "Power Prolonger",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Bonus duration +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Bonus duration +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Bonus duration +30%"
+    }
+   ],
+   "jewelName": "Enhancer Jewel 2"
+  },
+  {
+   "skillName": "Handicraft",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Weapon sharpness +10"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Weapon sharpness +20"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Weapon sharpness +30"
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Weapon sharpness +40"
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Weapon sharpness +50"
+    }
+   ],
+   "jewelName": "Handicraft Jewel 3"
+  },
+  {
+   "skillName": "Critical Draw",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Draw attack affinity +30%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Draw attack affinity +60%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Draw attack affinity +100%"
+    }
+   ],
+   "jewelName": "Draw Jewel 2"
+  },
+  {
+   "skillName": "Partbreaker",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Part damage +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Part damage +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Part damage +30%"
+    }
+   ],
+   "jewelName": "Destroyer Jewel 2"
+  },
+  {
+   "skillName": "Slugger",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Stun power +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Stun power +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Stun power +30%"
+    }
+   ],
+   "jewelName": "KO Jewel 2"
+  },
+  {
+   "skillName": "Stamina Thief",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Exhaust power +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Exhaust power +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Exhaust power +30%"
+    }
+   ],
+   "jewelName": "Drain Jewel 1"
+  },
+  {
+   "skillName": "Master Mounter",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Makes it easier to mount monsters and down mounted monsters."
+    }
+   ]
+  },
+  {
+   "skillName": "Airborne",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Jumping attack power +10%"
+    }
+   ],
+   "jewelName": "Flight Jewel 2"
+  },
+  {
+   "skillName": "Latent Power",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, increases affinity by 10% and reduces stamina depletion by 10%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, increases affinity by 20% and reduces stamina depletion by 10%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, increases affinity by 30% and reduces stamina depletion by 30%."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "While active, increases affinity by 40% and reduces stamina depletion by 30%."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "While active, increases affinity by 50% and reduces stamina depletion by 50%."
+    }
+   ],
+   "jewelName": "Throttle Jewel 2"
+  },
+  {
+   "skillName": "Agitator",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, grants attack +4 and increases affinity by 3%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, grants attack +8 and increases affinity by 6%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, grants attack +12 and increases affinity by 9%."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "While active, grants attack +16 and increases affinity by 12%."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "While active, grants attack +20 and increases affinity by 15%."
+    }
+   ],
+   "jewelName": "Challenger Jewel 2"
+  },
+  {
+   "skillName": "Peak Performance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, grants attack +5."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, grants attack +10."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, grants attack +20."
+    }
+   ],
+   "jewelName": "Flawless Jewel 2"
+  },
+  {
+   "skillName": "Heroics",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, increases attack power by 5% and increases defense by 15 points."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, increases attack power by 10% and increases defense by 20 points."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, increases attack power by 15% and increases defense by 25 points."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "While active, increases attack power by 20% and increases defense by 30 points."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "While active, increases attack power by 30% and increases defense by 40 points."
+    }
+   ],
+   "jewelName": "Potential Jewel 2"
+  },
+  {
+   "skillName": "Fortify",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases attack by 10% and defense by 15% with each use."
+    }
+   ],
+   "jewelName": "Fortitude Jewel 1"
+  },
+  {
+   "skillName": "Resentment",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, grants attack +5."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, grants attack +10."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, grants attack +15."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "While active, grants attack +20."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "While active, grants attack +25."
+    }
+   ],
+   "jewelName": "Furor Jewel 2"
+  },
+  {
+   "skillName": "Resuscitate",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, greatly improves evasion invulnerability time and reduces stamina depletion."
+    }
+   ],
+   "jewelName": "Crisis Jewel 1"
+  },
+  {
+   "skillName": "Horn Maestro",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Extends melody effect duration and increases health recovery."
+    }
+   ],
+   "jewelName": "Sonorous Jewel 1"
+  },
+  {
+   "skillName": "Capacity Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Loading capacity +1"
+    }
+   ],
+   "jewelName": "Magazine Jewel 2"
+  },
+  {
+   "skillName": "Special Ammo Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the power of bowgun special ammo and Dragon Piercer by 10%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Increases the power of bowgun special ammo and Dragon Piercer by 20%."
+    }
+   ],
+   "jewelName": "Trueshot Jewel 1"
+  },
+  {
+   "skillName": "Artillery",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+    }
+   ],
+   "jewelName": "Artillery Jewel 1"
+  },
+  {
+   "skillName": "Heavy Artillery",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Firepower +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Firepower +20%"
+    }
+   ],
+   "jewelName": "Heavy Artillery Jewel 1"
+  },
+  {
+   "skillName": "Marathon Runner",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces continuous stamina depletion by 15%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces continuous stamina depletion by 30%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Reduces continuous stamina depletion by 50%."
+    }
+   ],
+   "jewelName": "Sprinter Jewel 2"
+  },
+  {
+   "skillName": "Constitution",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces fixed stamina depletion by 10%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Reduces fixed stamina depletion by 20%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Reduces fixed stamina depletion by 30%."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Reduces fixed stamina depletion by 40%."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Reduces fixed stamina depletion by 50%."
+    }
+   ],
+   "jewelName": "Physique Jewel 2"
+  },
+  {
+   "skillName": "Leap of Faith",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Enables Leap of Faith."
+    }
+   ]
+  },
+  {
+   "skillName": "Stamina Surge",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Stamina recovery speed +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Stamina recovery speed +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Stamina recovery speed +30%"
+    }
+   ],
+   "jewelName": "Refresh Jewel 2"
+  },
+  {
+   "skillName": "Hunger Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Extends the time until your stamina cap decreases by 30%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Extends the time until your stamina cap decreases by 60%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents your stamina cap from decreasing."
+    }
+   ],
+   "jewelName": "Hungerless Jewel 1"
+  },
+  {
+   "skillName": "Evade Window",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Very slightly increases invulnerability window."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Slightly increases invulnerability window."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Increases invulnerability window."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Greatly increases invulnerability window."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Massively increases invulnerability window."
+    }
+   ],
+   "jewelName": "Evasion Jewel 2"
+  },
+  {
+   "skillName": "Evade Extender",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Slightly extends evasion distance."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Extends evasion distance."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Greatly extends evasion distance."
+    }
+   ],
+   "jewelName": "Jumping Jewel 2"
+  },
+  {
+   "skillName": "Guard",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Very slightly decreases the impact of attacks."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Greatly decreases the impact of attacks and redcues stamina depletion by 15%."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Greatly decreases the impact of attacks and redcues stamina depletion by 30%."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Greatly decreases the impact of attacks and redcues stamina depletion by 50%."
+    }
+   ],
+   "jewelName": "Ironwall Jewel 1"
+  },
+  {
+   "skillName": "Quick Sheath",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Slightly increases sheathing speed."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Moderately increases sheathing speed."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Greatly increases sheathing speed."
+    }
+   ],
+   "jewelName": "Sheath Jewel 1"
+  },
+  {
+   "skillName": "Wide-Range",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Items affect nearby allies with 33% of their efficacy."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Items affect nearby allies in a wider radius with 33% of their efficacy."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Items affect nearby allies in a wider radius with 66% of their efficacy."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Items affect nearby allies in a much wider radius with 66% of their efficacy."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Items affect nearby allies in a wider radius with full efficacy."
+    }
+   ],
+   "jewelName": "Friendship Jewel 1"
+  },
+  {
+   "skillName": "Item Prolonger",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Item effect duration +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Item effect duration +25%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Item effect duration +50%"
+    }
+   ],
+   "jewelName": "Enduring Jewel 1"
+  },
+  {
+   "skillName": "Free Meal",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Activates 25% of the time."
+    }
+   ],
+   "jewelName": "Satiated Jewel 1"
+  },
+  {
+   "skillName": "Speed Eating",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Slightly increases item use speed."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Moderately increases item use speed."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Greatly increases item use speed."
+    }
+   ],
+   "jewelName": "Gobbler Jewel 1"
+  },
+  {
+   "skillName": "Speed Sharpening",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Removes one cycle from the sharpening process."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Removes two cycles from the sharpening process."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Removes three cycles from the sharpening process."
+    }
+   ],
+   "jewelName": "Grinder Jewel 1"
+  },
+  {
+   "skillName": "Bombardier",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Explosive power +10%"
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Explosive power +20%"
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Explosive power +30%"
+    }
+   ],
+   "jewelName": "Bomber Jewel 1"
+  },
+  {
+   "skillName": "Mushroomancer",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Lets you digest blue mushrooms and toadstools."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Additionally lets you digest nitroshrooms and parashrooms."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Additionally lets you digest mandragoras, devil's blight, and exciteshrooms."
+    }
+   ],
+   "jewelName": "Fungiform Jewel 1"
+  },
+  {
+   "skillName": "Master Fisher",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the time window for reeling in fish, and makes it easier to catch large fish."
+    }
+   ]
+  },
+  {
+   "skillName": "Pro Transporter",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases movement speed while transporting and reduces downtime on landings."
+    }
+   ]
+  },
+  {
+   "skillName": "Master Gatherer",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Speeds up gathering and prevents knockbacks while gathering."
+    }
+   ]
+  },
+  {
+   "skillName": "Honey Hunter",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "One extra honey per gather."
+    }
+   ]
+  },
+  {
+   "skillName": "Carving Pro",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Prevents knockback while carving."
+    }
+   ]
+  },
+  {
+   "skillName": "Divine Blessing",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, reduces damage taken by 15%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, reduces damage taken by 30%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, reduces damage taken by 50%."
+    }
+   ],
+   "jewelName": "Protection Jewel 1"
+  },
+  {
+   "skillName": "Palico Rally",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases Palico attack power and defense by 5%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Increases Palico attack power and defense by 10%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Increases Palico attack power and defense by 15%."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "Increases Palico attack power and defense by 20%."
+    },
+    {
+     "levelName": "Lv5",
+     "levelDescription": "Increases Palico attack power and defense by 25%."
+    }
+   ],
+   "jewelName": "Meowster Jewel 1"
+  },
+  {
+   "skillName": "Botanist",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "One extra consumable herb item per gather."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "One extra consumable herb, fruit, nut, or seed item per gather."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "One extra consumable herb, fruit, nut, seed, or insect item per gather."
+    },
+    {
+     "levelName": "Lv4",
+     "levelDescription": "One extra consumable herb, fruit, nut, seed, insect or mushroom item per gather."
+    }
+   ],
+   "jewelName": "Botany Jewel 1"
+  },
+  {
+   "skillName": "Geologist",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Allows you to gather one extra time from bonepiles."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Allows you to gather one extra time from bonepiles and special item gathering points."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops."
+    }
+   ],
+   "jewelName": "Geology Jewel 1"
+  },
+  {
+   "skillName": "Maximum Might",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "While active, increases affinity by 10%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "While active, increases affinity by 20%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "While active, increases affinity by 30%."
+    }
+   ],
+   "jewelName": "Mighty Jewel 2"
+  },
+  {
+   "skillName": "Slinger Capacity",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the loading capacity for slinger ammo collected from the ground or plants."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "In addition, increases the loading capacity for some slinger ammo dropped by monsters."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "In addition, increases the loading capacity for all slinger ammo dropped by monsters."
+    }
+   ],
+   "jewelName": "Stonethrower Jewel 1"
+  },
+  {
+   "skillName": "Stealth",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Makes it slightly easier for monsters to lose sight of you."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Makes it moderately easier for monsters to lose sight of you."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Makes it much easier for monsters to lose sight of you."
+    }
+   ],
+   "jewelName": "Tip Toe Jewel 1"
+  },
+  {
+   "skillName": "Flinch Free",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Prevents knockbacks."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Prevents standard knockbacks. Tripping is reduced to a knockback instead."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents knockbacks and tripping."
+    }
+   ],
+   "jewelName": "Brace Jewel 3"
+  },
+  {
+   "skillName": "Scoutfly Range Up",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Expands your scoutflies' detection range."
+    }
+   ]
+  },
+  {
+   "skillName": "Speed Crawler",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases movement speed while crouching."
+    }
+   ]
+  },
+  {
+   "skillName": "Jump Master",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Negates knockback during jumps."
+    }
+   ]
+  },
+  {
+   "skillName": "Sporepuff Expert",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Sporepuffs restore 20 health."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Sporepuffs restore 35 health."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Sporepuffs restore 60 health."
+    }
+   ],
+   "jewelName": "Smoke Jewel 1"
+  },
+  {
+   "skillName": "Aquatic Expert",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Prevents water from slowing movement."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Prevents water from slowing movement and improves evasion while in water."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents water from slowing movement and greatly improves evasion while in water."
+    }
+   ],
+   "jewelName": "Mirewalker Jewel 1"
+  },
+  {
+   "skillName": "Cliffhanger",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces stamina depletion while climbing by 25%."
+    }
+   ]
+  },
+  {
+   "skillName": "Blindsider",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the success rate of flash effects."
+    }
+   ]
+  },
+  {
+   "skillName": "Scholar",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Speeds up progress on research levels and special investigations."
+    }
+   ]
+  },
+  {
+   "skillName": "Entomologist",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the chances of a corpse being left behind."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Greatly increases the chances of a corpse being left behind."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Makes it so corpses will always be left behind."
+    }
+   ],
+   "jewelName": "Specimen Jewel 1"
+  },
+  {
+   "skillName": "Effluvia Resistance",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Reduces effluvial buildup."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Greatly reduces effluvial buildup."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents effluvial buildup."
+    }
+   ],
+   "jewelName": "Miasma Jewel 1"
+  },
+  {
+   "skillName": "Scenthound",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases gauge fill rate by 50%."
+    }
+   ],
+   "jewelName": "Scent Jewel 1"
+  },
+  {
+   "skillName": "Forager's Luck",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases the likelihood of rare gathering points respawning."
+    }
+   ]
+  },
+  {
+   "skillName": "Detector",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Marks rare sites on the wildlife map."
+    }
+   ]
+  },
+  {
+   "skillName": "BBQ Master",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Makes it easier to cook well-done steaks."
+    }
+   ]
+  },
+  {
+   "skillName": "Tool Specialist",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Shortens time until reuse by 5%."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Shortens time until reuse by 10%."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Shortens time until reuse by 20%."
+    }
+   ]
+  },
+  {
+   "skillName": "Affinity Sliding",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Increases affinity by 30% for a short time after sliding."
+    }
+   ],
+   "jewelName": "Slider Jewel 2"
+  },
+  {
+   "skillName": "Intimidator",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Discourages monsters from engaging you even if you've been spotted."
+    },
+    {
+     "levelName": "Lv2",
+     "levelDescription": "Highly discourages monsters from engaging you even if you've been spotted."
+    },
+    {
+     "levelName": "Lv3",
+     "levelDescription": "Prevents monsters from engaging you even if you've been spotted."
+    }
+   ],
+   "jewelName": "Intimidator Jewel 1"
+  },
+  {
+   "skillName": "Hasten Recovery"
+  },
+  {
+   "skillName": "Super Recovery"
+  },
+  {
+   "skillName": "Poison Duration Up"
+  },
+  {
+   "skillName": "Adrenaline"
+  },
+  {
+   "skillName": "Stamina Cap Up"
+  },
+  {
+   "skillName": "Critical Element"
+  },
+  {
+   "skillName": "Mind's Eye/Ballistics",
+   "jewelName": "Mind's Eye Jewel 2"
+  },
+  {
+   "skillName": "Bludgeoner"
+  },
+  {
+   "skillName": "Non-elemental Boost",
+   "jewelName": "Elementless Jewel 2"
+  },
+  {
+   "skillName": "Capture Master"
+  },
+  {
+   "skillName": "Guard Up",
+   "jewelName": "Shield Jewel 2"
+  },
+  {
+   "skillName": "Guts"
+  },
+  {
+   "skillName": "Master's Touch"
+  },
+  {
+   "skillName": "Nullify Wind Pressure"
+  },
+  {
+   "skillName": "Razor Sharp/Spare Shot"
+  },
+  {
+   "skillName": "Critical Status"
+  },
+  {
+   "skillName": "Good Luck"
+  },
+  {
+   "skillName": "Bow Charge Plus",
+   "jewelName": "Mighty Bow Jewel 2"
+  },
+  {
+   "skillName": "Punishing Draw"
+  },
+  {
+   "skillName": "Protective Polish",
+   "jewelName": "Sharp Jewel 2"
+  },
+  {
+   "skillName": "Poison Functionality",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Lets you use poison coating."
+    }
+   ],
+   "jewelName": "Poisoncoat Jewel 3"
+  },
+  {
+   "skillName": "Para Functionality",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Lets you use paralysis coating."
+    }
+   ],
+   "jewelName": "Paracoat Jewel 3"
+  },
+  {
+   "skillName": "Sleep Functionality",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Lets you use sleep coating."
+    }
+   ],
+   "jewelName": "Sleepcoat Jewel 3"
+  },
+  {
+   "skillName": "Blast Functionality",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Lets you use blast coating."
+    }
+   ],
+   "jewelName": "Blastcoat Jewel 3"
+  },
+  {
+   "skillName": "Elderseal Boost",
+   "levels": [
+    {
+     "levelName": "Lv1",
+     "levelDescription": "Boosts Elderseal one level."
+    }
+   ],
+   "jewelName": "Dragonseal Jewel 3"
+  }
+ ]
+}

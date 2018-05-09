@@ -1,0 +1,5955 @@
+{
+ "Armor": [
+  {
+   "ArmorName": "Hunter's Headgear Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Scoutfly Range Up",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Scholar",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Slinger Capacity",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stealth",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stealth",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Master Gatherer",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Slinger Capacity",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Scenthound",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Headgear Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Scoutfly Range Up",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Slinger Capacity",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stealth",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Master Gatherer",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hunter's Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Scenthound",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Entomologist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Warped Bone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Attack Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone L",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Slugger",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Attack Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Coral Bone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Horn Maestro",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Master Fisher",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Ancient Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Entomologist",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Boulder Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Warped Bone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Attack Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone L",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Slugger",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Coral Bone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Horn Maestro",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Ancient Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Bone Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Entomologist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Boulder Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Defense Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Water Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Coral Crystal",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Defense Boost",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Speed Sharpening",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Water Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Sharpening",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Water Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Coral Crystal",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Defense Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Alloy Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Sharpening",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Dragonite Ore",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Machalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "36 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "King Beetle Vertex Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Thorax Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Brachia Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Leap of Faith",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Elytra Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Crura Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Forager's Luck",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Vertex Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Thorax Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Brachia Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Elytra Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "King Beetle Crura Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Forager's Luck",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Vertex Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Thorax Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Brachia Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Leap of Faith",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Elytra Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Crura Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Forager's Luck",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Vertex Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Window",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Thorax Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Brachia Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Elytra Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Butterfly Crura Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Forager's Luck",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Hornfly",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Vespoid Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Quick Sheath",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Vespoid Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Honey Hunter",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Vespoid Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Vespoid Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Dungmaster",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Dragon Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Mail Apha",
+   "ArmorSkills": [
+    {
+     "Skill": "Effluvial Expert",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Hunger Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Head",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Free Meal",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Hunger Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Carving Pro",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Hunger Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Handicraft",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Dragon Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Head",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Novacrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Dungmaster",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Effluvial Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Head",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Free Meal",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Carving Pro",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Hornetaur Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Handicraft",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Hornetaur Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Hornetaur Innerwing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Hornetaur Head",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Novacrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "38 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Mossswine Mask Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Mushroomancer",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Mosswine Hide",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Anjanath Nosebone+",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Novacrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "3,000z"
+  },
+  {
+   "ArmorName": "Kestodon Guards Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Affinity Sliding",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Focus",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Kestodon Scalp",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kestodon Guards Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Affinity Sliding",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Kestodon Scalp",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Gajau Boots Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Aquatic Expert",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Gajau Skin",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Grand Gajau Whisker",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Gajau Boots Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Aquatic Expert",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Gajau Skin",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Grand Gajau Whisker",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Shamos Goggles Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Detector",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Geologist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Shamos Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Shamos Goggles Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Detector",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Shamos Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Eating",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Piercing Claw",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Intimidator",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Palico Rally",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Intimidator",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Fortify",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Speed Eating",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Crawler",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Free Meal",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Eating",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Piercing Claw",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Intimidator",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Palico Rally",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jagras Hide+",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Fortify",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Jagras Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Speed Crawler",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Jagras Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Jagras Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Jagras Mane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jagras Scale+",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Headpiece Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Resistance",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Weakness Exploit",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Plume+",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Surge",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Critical Eye",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Plume+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Beak+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Pro Transporter",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Critical Eye",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Item Prolonger",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Beak+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Critical Eye",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Item Prolonger",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Headpiece Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Plume+",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Surge",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Plume+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Beak+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Pro Transporter",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Item Prolonger",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Beak+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Kulu Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Critical Eye",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Kulu-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Kulu-Ya-Ku Scale+",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Earth Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Headgear Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Blindsider",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Stun Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Coral Crystal",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Constitution",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stun Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Wide-Range",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Wide-Range",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Sleep Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Headgear Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Blindsider",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Coral Crystal",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Constitution",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stun Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Photophore+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Wide-Range",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Dragonvein Crystal",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Tzitzi Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Sleep Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tzitzi-Ya-Ku Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tzitzi-Ya-Ku Claw+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Girros Mask Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Horn Maestro",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Hood+",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Girros Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Palico Rally",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Girros Fang",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Effluvial Expert",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Hood+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Girros Hide+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Warped Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Mask Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Horn Maestro",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Hood+",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Girros Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Palico Rally",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Girros Fang",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Omniplegia Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Effluvial Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Hood+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Girros Hide+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Girros Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Paralysis Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Great Girros Hide+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Great Girros Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Great Girros Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Warped Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "40 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Hood Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Sporepuff Expert",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Wing",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Item Prolonger",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Sac+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Sporepuff Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Sac+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Hood Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Sporepuff Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Wing",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Item Prolonger",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Toxin Sac",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pukei-Pukei Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Sac+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Pukei Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pukei-Pukei Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Sac+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Pukei-Pukei Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Guard",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Barroth Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Claw+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Thief",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Claw+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Marathon Runner",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Stamina Thief",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Scalp",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Muck Resistance",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Guard",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stun Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Marathon Runner",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Fertile Mud",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Guard",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Barroth Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Claw+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Thief",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Claw+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Marathon Runner",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Scalp",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Kestodon Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Bird Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Muck Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Bone+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Barroth Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stun Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Barroth Ridge+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Barroth Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Fertile Mud",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "42 ～ 0",
+   "Price": "4,000z"
+  },
+  {
+   "ArmorName": "Anja Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Attack",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Fire Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Marathon Runner",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Special Ammo Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Anjanath Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Nosebone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Anjanath Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Special Ammo Boost",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Fire Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Nosebone+",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Anjanath Fang+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Piercing Claw",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Tail",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Marathon Runner",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Anjanath Fang+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Nosebone+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Anjanath Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Special Ammo Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Nosebone+",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Fire Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Anjanath Fang+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Piercing Claw",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Anja Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Anjanath Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Anjanath Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Carbalite Ore",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Aquatic Expert",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Gajau Scale",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Muck Resistance",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Aquatic Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Grand Gajau Whisker",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Ice Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Focus",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Aquatic Expert",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Gajau Scale",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Muck Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Water Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Grand Gajau Whisker",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Ice Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Torrent Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Jyura Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Focus",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Jyuratodus Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Jyuratodus Fang+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Jyuratodus Fin+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Constitution",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Electrode+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Jump Master",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Evade Extender",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Tobi-Kadachi Electrode+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tobi-Kadachi Membrane",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Extender",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Thunder Attack",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Thunder Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Thunder Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Constitution",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Membrane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "High-quality Pelt",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Constitution",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Electrode+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Jump Master",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Tobi-Kadachi Electrode+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Tobi-Kadachi Membrane",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Extender",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Claw+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Thunder Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Pelt+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Wingdrake Hide+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Kadachi Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Thunder Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Tobi-Kadachi Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Tobi-Kadachi Membrane",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Thunder Sac",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "High-quality Pelt",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Hat Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Surge",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Master Mounter",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Carapace+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Divine Blessing",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Carapace+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Coral Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Stamina Surge",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Hat Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Stamina Surge",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Lightcrystal",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Master Mounter",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Carapace+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Artillery",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Divine Blessing",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Carapace+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Coral Bone",
+     "NumRequired": "x5"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Lumu Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Paolumu Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Paolumu Pelt+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Paolumu Wing",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "44 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Webbing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Recovery Up",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Webbing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Recovery Up",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rath Wingtalon",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Ruby",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Webbing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Botanist",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Recovery Up",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Webbing",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Vambraces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Keenbone",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Health Boost",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Inferno Sac",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Broth",
+     "NumRequired": "x2"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rathian Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Recovery Up",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Rathian Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rath Wingtalon",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Ruby",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Extender",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Poison Attack",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Tool Specialist",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Novacrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Braces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rathian Ruby",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Coil Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Handicraft",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Poison Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Plate",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Greaves Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Tool Specialist",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Hide+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Helm Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Evade Extender",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Scale+",
+     "NumRequired": "x4"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Mail Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Tool Specialist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Novacrystal",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Braces Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Windproof",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Rathian Spike+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Rathian Ruby",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Coil Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Handicraft",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot1": "zmdi zmdi-n-1-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Rathian Plate",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Rath Heart Greaves Beta",
+   "ArmorSkills": [
+    {
+     "Skill": "Tool Specialist",
+     "SkillModifier": "+1"
+    }
+   ],
+   "Slot2": "zmdi zmdi-n-2-square",
+   "CraftingMaterials": [
+    {
+     "MatName": "Pink Rathian Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Pink Rathian Carapace",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Monster Hardbone",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Shamos Hide+",
+     "NumRequired": "x3"
+    }
+   ],
+   "DefenseRange": "52 ～ 0",
+   "Price": "9,000z"
+  },
+  {
+   "ArmorName": "Baan Helm Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Tremor Resistance",
+     "SkillModifier": "+2"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Radobaan Carapace",
+     "NumRequired": "x6"
+    },
+    {
+     "MatName": "Radobaan Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Radobaan Medulla",
+     "NumRequired": "x1"
+    },
+    {
+     "MatName": "Wyvern Gem",
+     "NumRequired": "x1"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Baan Mail Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Sleep Attack",
+     "SkillModifier": "+1"
+    },
+    {
+     "Skill": "Bleeding Resistance",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Radobaan Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Radobaan Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Coma Sac",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Quality Bone",
+     "NumRequired": "x6"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  },
+  {
+   "ArmorName": "Baan Vambraces Alpha",
+   "ArmorSkills": [
+    {
+     "Skill": "Sleep Attack",
+     "SkillModifier": "+2"
+    },
+    {
+     "Skill": "Guard",
+     "SkillModifier": "+1"
+    }
+   ],
+   "CraftingMaterials": [
+    {
+     "MatName": "Radobaan Scale+",
+     "NumRequired": "x4"
+    },
+    {
+     "MatName": "Radobaan Carapace",
+     "NumRequired": "x3"
+    },
+    {
+     "MatName": "Radobaan Oilshell",
+     "NumRequired": "x2"
+    },
+    {
+     "MatName": "Sturdy Bone",
+     "NumRequired": "x8"
+    }
+   ],
+   "DefenseRange": "46 ～ 0",
+   "Price": "6,000z"
+  }
+ ]
+}

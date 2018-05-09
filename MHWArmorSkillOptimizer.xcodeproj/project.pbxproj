@@ -1,0 +1,683 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D5A190B205765480078768F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A190A205765480078768F /* AppDelegate.swift */; };
+		3D5A190D205765480078768F /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A190C205765480078768F /* MasterViewController.swift */; };
+		3D5A190F205765480078768F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A190E205765480078768F /* DetailViewController.swift */; };
+		3D5A1912205765480078768F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1910205765480078768F /* Main.storyboard */; };
+		3D5A1914205765480078768F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1913205765480078768F /* Assets.xcassets */; };
+		3D5A1917205765480078768F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1915205765480078768F /* LaunchScreen.storyboard */; };
+		3D5A1922205765480078768F /* MHWArmorSkillOptimizerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */; };
+		3D5A192D205765480078768F /* MHWArmorSkillOptimizerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A192C205765480078768F /* MHWArmorSkillOptimizerUITests.swift */; };
+		3D5A1941205775AC0078768F /* MathSkill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A193C205775AC0078768F /* MathSkill.swift */; };
+		3D5A1942205775AC0078768F /* HelperStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A193D205775AC0078768F /* HelperStrings.swift */; };
+		3D5A1945205775AC0078768F /* Skill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A1940205775AC0078768F /* Skill.swift */; };
+		3D5A194B205775F00078768F /* Armor_withMats_200_part1JSON.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1949205775F00078768F /* Armor_withMats_200_part1JSON.json */; };
+		3D5A194C205775F00078768F /* SkillsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A194A205775F00078768F /* SkillsData.json */; };
+		3D5A194E205776FE0078768F /* SkillViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A194D205776FE0078768F /* SkillViewController.swift */; };
+		3D5A1950205BF9A70078768F /* ArmorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A194F205BF9A70078768F /* ArmorsViewController.swift */; };
+		3D5A1952205BFA830078768F /* BuildsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A1951205BFA830078768F /* BuildsTableViewController.swift */; };
+		3D5A1956205EBE7B0078768F /* DesiredSkillTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A1955205EBE7B0078768F /* DesiredSkillTableViewCell.swift */; };
+		3D6ED388206C637E00AA16C7 /* Build.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6ED387206C637E00AA16C7 /* Build.swift */; };
+		3D6ED38C206C641A00AA16C7 /* ReadJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6ED38B206C641A00AA16C7 /* ReadJSON.swift */; };
+		3D6ED38E206C9F4700AA16C7 /* Armor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6ED38D206C9F4700AA16C7 /* Armor.swift */; };
+		3D889FC7208CF97A00807C19 /* RAW_Armor_JSON.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D889FC6208CF97A00807C19 /* RAW_Armor_JSON.json */; };
+		3DBAC207208D3D9500A01A5B /* ArmorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBAC206208D3D9500A01A5B /* ArmorTableViewCell.swift */; };
+		3DBAC212208D591100A01A5B /* Armor_Boots_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC20D208D590E00A01A5B /* Armor_Boots_Purple.png */; };
+		3DBAC213208D591100A01A5B /* Armor_Chest_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC20E208D590F00A01A5B /* Armor_Chest_Purple.png */; };
+		3DBAC214208D591100A01A5B /* Armor_Head_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC20F208D590F00A01A5B /* Armor_Head_Purple.png */; };
+		3DBAC215208D591100A01A5B /* Armor_Waist_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC210208D591000A01A5B /* Armor_Waist_Purple.png */; };
+		3DBAC216208D591100A01A5B /* Armor_Gloves_Purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC211208D591000A01A5B /* Armor_Gloves_Purple.png */; };
+		3DBAC218208D62DF00A01A5B /* Head.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC217208D62DF00A01A5B /* Head.png */; };
+		3DBAC21A208D63B200A01A5B /* skills.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DBAC219208D63B200A01A5B /* skills.png */; };
+		3DEE2D7D208BED7B0015C8A3 /* BuildScoreEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D7C208BED7B0015C8A3 /* BuildScoreEngine.swift */; };
+		3DEE2D7F208C16450015C8A3 /* DetailBuildTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D7E208C16450015C8A3 /* DetailBuildTableViewController.swift */; };
+		3DEE2D83208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D82208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3D5A191E205765480078768F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D5A18FF205765480078768F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3D5A1906205765480078768F;
+			remoteInfo = MHWArmorSkillOptimizer;
+		};
+		3D5A1929205765480078768F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D5A18FF205765480078768F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3D5A1906205765480078768F;
+			remoteInfo = MHWArmorSkillOptimizer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3D5A1907205765480078768F /* MHWArmorSkillOptimizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MHWArmorSkillOptimizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D5A190A205765480078768F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3D5A190C205765480078768F /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		3D5A190E205765480078768F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		3D5A1911205765480078768F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3D5A1913205765480078768F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D5A1916205765480078768F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3D5A1918205765480078768F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D5A191D205765480078768F /* MHWArmorSkillOptimizerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHWArmorSkillOptimizerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHWArmorSkillOptimizerTests.swift; sourceTree = "<group>"; };
+		3D5A1923205765480078768F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D5A1928205765480078768F /* MHWArmorSkillOptimizerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHWArmorSkillOptimizerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D5A192C205765480078768F /* MHWArmorSkillOptimizerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHWArmorSkillOptimizerUITests.swift; sourceTree = "<group>"; };
+		3D5A192E205765480078768F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D5A193C205775AC0078768F /* MathSkill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MathSkill.swift; sourceTree = "<group>"; };
+		3D5A193D205775AC0078768F /* HelperStrings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelperStrings.swift; sourceTree = "<group>"; };
+		3D5A1940205775AC0078768F /* Skill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Skill.swift; sourceTree = "<group>"; };
+		3D5A1949205775F00078768F /* Armor_withMats_200_part1JSON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Armor_withMats_200_part1JSON.json; sourceTree = "<group>"; };
+		3D5A194A205775F00078768F /* SkillsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SkillsData.json; sourceTree = "<group>"; };
+		3D5A194D205776FE0078768F /* SkillViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SkillViewController.swift; sourceTree = "<group>"; };
+		3D5A194F205BF9A70078768F /* ArmorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmorsViewController.swift; sourceTree = "<group>"; };
+		3D5A1951205BFA830078768F /* BuildsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildsTableViewController.swift; sourceTree = "<group>"; };
+		3D5A1955205EBE7B0078768F /* DesiredSkillTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesiredSkillTableViewCell.swift; sourceTree = "<group>"; };
+		3D6ED387206C637E00AA16C7 /* Build.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Build.swift; sourceTree = "<group>"; };
+		3D6ED38B206C641A00AA16C7 /* ReadJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadJSON.swift; sourceTree = "<group>"; };
+		3D6ED38D206C9F4700AA16C7 /* Armor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Armor.swift; sourceTree = "<group>"; };
+		3D889FC6208CF97A00807C19 /* RAW_Armor_JSON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RAW_Armor_JSON.json; sourceTree = "<group>"; };
+		3DBAC206208D3D9500A01A5B /* ArmorTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArmorTableViewCell.swift; sourceTree = "<group>"; };
+		3DBAC20D208D590E00A01A5B /* Armor_Boots_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Armor_Boots_Purple.png; sourceTree = "<group>"; };
+		3DBAC20E208D590F00A01A5B /* Armor_Chest_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Armor_Chest_Purple.png; sourceTree = "<group>"; };
+		3DBAC20F208D590F00A01A5B /* Armor_Head_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Armor_Head_Purple.png; sourceTree = "<group>"; };
+		3DBAC210208D591000A01A5B /* Armor_Waist_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Armor_Waist_Purple.png; sourceTree = "<group>"; };
+		3DBAC211208D591000A01A5B /* Armor_Gloves_Purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Armor_Gloves_Purple.png; sourceTree = "<group>"; };
+		3DBAC217208D62DF00A01A5B /* Head.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Head.png; sourceTree = "<group>"; };
+		3DBAC219208D63B200A01A5B /* skills.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skills.png; sourceTree = "<group>"; };
+		3DEE2D7C208BED7B0015C8A3 /* BuildScoreEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildScoreEngine.swift; sourceTree = "<group>"; };
+		3DEE2D7E208C16450015C8A3 /* DetailBuildTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBuildTableViewController.swift; sourceTree = "<group>"; };
+		3DEE2D82208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBuildSkillTableViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D5A1904205765480078768F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A191A205765480078768F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A1925205765480078768F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D5A18FE205765480078768F = {
+			isa = PBXGroup;
+			children = (
+				3D5A1909205765480078768F /* MHWArmorSkillOptimizer */,
+				3D5A1920205765480078768F /* MHWArmorSkillOptimizerTests */,
+				3D5A192B205765480078768F /* MHWArmorSkillOptimizerUITests */,
+				3D5A1908205765480078768F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D5A1908205765480078768F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D5A1907205765480078768F /* MHWArmorSkillOptimizer.app */,
+				3D5A191D205765480078768F /* MHWArmorSkillOptimizerTests.xctest */,
+				3D5A1928205765480078768F /* MHWArmorSkillOptimizerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D5A1909205765480078768F /* MHWArmorSkillOptimizer */ = {
+			isa = PBXGroup;
+			children = (
+				3DBAC208208D511800A01A5B /* Images */,
+				3D5A1946205775F00078768F /* Data */,
+				3D5A193A205775AC0078768F /* Classes */,
+				3D5A190A205765480078768F /* AppDelegate.swift */,
+				3D5A190C205765480078768F /* MasterViewController.swift */,
+				3D5A1951205BFA830078768F /* BuildsTableViewController.swift */,
+				3D5A190E205765480078768F /* DetailViewController.swift */,
+				3D5A194D205776FE0078768F /* SkillViewController.swift */,
+				3D5A194F205BF9A70078768F /* ArmorsViewController.swift */,
+				3D5A1955205EBE7B0078768F /* DesiredSkillTableViewCell.swift */,
+				3DEE2D7E208C16450015C8A3 /* DetailBuildTableViewController.swift */,
+				3DEE2D82208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift */,
+				3DBAC206208D3D9500A01A5B /* ArmorTableViewCell.swift */,
+				3D5A1910205765480078768F /* Main.storyboard */,
+				3D5A1913205765480078768F /* Assets.xcassets */,
+				3D5A1915205765480078768F /* LaunchScreen.storyboard */,
+				3D5A1918205765480078768F /* Info.plist */,
+			);
+			path = MHWArmorSkillOptimizer;
+			sourceTree = "<group>";
+		};
+		3D5A1920205765480078768F /* MHWArmorSkillOptimizerTests */ = {
+			isa = PBXGroup;
+			children = (
+				3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */,
+				3D5A1923205765480078768F /* Info.plist */,
+			);
+			path = MHWArmorSkillOptimizerTests;
+			sourceTree = "<group>";
+		};
+		3D5A192B205765480078768F /* MHWArmorSkillOptimizerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3D5A192C205765480078768F /* MHWArmorSkillOptimizerUITests.swift */,
+				3D5A192E205765480078768F /* Info.plist */,
+			);
+			path = MHWArmorSkillOptimizerUITests;
+			sourceTree = "<group>";
+		};
+		3D5A193A205775AC0078768F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3D5A193C205775AC0078768F /* MathSkill.swift */,
+				3D5A193D205775AC0078768F /* HelperStrings.swift */,
+				3D6ED38D206C9F4700AA16C7 /* Armor.swift */,
+				3D6ED387206C637E00AA16C7 /* Build.swift */,
+				3D5A1940205775AC0078768F /* Skill.swift */,
+				3D6ED38B206C641A00AA16C7 /* ReadJSON.swift */,
+				3DEE2D7C208BED7B0015C8A3 /* BuildScoreEngine.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		3D5A1946205775F00078768F /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				3D889FC6208CF97A00807C19 /* RAW_Armor_JSON.json */,
+				3D5A1949205775F00078768F /* Armor_withMats_200_part1JSON.json */,
+				3D5A194A205775F00078768F /* SkillsData.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		3DBAC208208D511800A01A5B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3DBAC20D208D590E00A01A5B /* Armor_Boots_Purple.png */,
+				3DBAC20E208D590F00A01A5B /* Armor_Chest_Purple.png */,
+				3DBAC211208D591000A01A5B /* Armor_Gloves_Purple.png */,
+				3DBAC20F208D590F00A01A5B /* Armor_Head_Purple.png */,
+				3DBAC210208D591000A01A5B /* Armor_Waist_Purple.png */,
+				3DBAC217208D62DF00A01A5B /* Head.png */,
+				3DBAC219208D63B200A01A5B /* skills.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D5A1906205765480078768F /* MHWArmorSkillOptimizer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D5A1931205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizer" */;
+			buildPhases = (
+				3D5A1903205765480078768F /* Sources */,
+				3D5A1904205765480078768F /* Frameworks */,
+				3D5A1905205765480078768F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MHWArmorSkillOptimizer;
+			productName = MHWArmorSkillOptimizer;
+			productReference = 3D5A1907205765480078768F /* MHWArmorSkillOptimizer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3D5A191C205765480078768F /* MHWArmorSkillOptimizerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D5A1934205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizerTests" */;
+			buildPhases = (
+				3D5A1919205765480078768F /* Sources */,
+				3D5A191A205765480078768F /* Frameworks */,
+				3D5A191B205765480078768F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3D5A191F205765480078768F /* PBXTargetDependency */,
+			);
+			name = MHWArmorSkillOptimizerTests;
+			productName = MHWArmorSkillOptimizerTests;
+			productReference = 3D5A191D205765480078768F /* MHWArmorSkillOptimizerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3D5A1927205765480078768F /* MHWArmorSkillOptimizerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D5A1937205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizerUITests" */;
+			buildPhases = (
+				3D5A1924205765480078768F /* Sources */,
+				3D5A1925205765480078768F /* Frameworks */,
+				3D5A1926205765480078768F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3D5A192A205765480078768F /* PBXTargetDependency */,
+			);
+			name = MHWArmorSkillOptimizerUITests;
+			productName = MHWArmorSkillOptimizerUITests;
+			productReference = 3D5A1928205765480078768F /* MHWArmorSkillOptimizerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D5A18FF205765480078768F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Russell Boley";
+				TargetAttributes = {
+					3D5A1906205765480078768F = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					3D5A191C205765480078768F = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3D5A1906205765480078768F;
+					};
+					3D5A1927205765480078768F = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3D5A1906205765480078768F;
+					};
+				};
+			};
+			buildConfigurationList = 3D5A1902205765480078768F /* Build configuration list for PBXProject "MHWArmorSkillOptimizer" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D5A18FE205765480078768F;
+			productRefGroup = 3D5A1908205765480078768F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D5A1906205765480078768F /* MHWArmorSkillOptimizer */,
+				3D5A191C205765480078768F /* MHWArmorSkillOptimizerTests */,
+				3D5A1927205765480078768F /* MHWArmorSkillOptimizerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D5A1905205765480078768F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D5A194B205775F00078768F /* Armor_withMats_200_part1JSON.json in Resources */,
+				3D5A1917205765480078768F /* LaunchScreen.storyboard in Resources */,
+				3D5A1914205765480078768F /* Assets.xcassets in Resources */,
+				3D5A194C205775F00078768F /* SkillsData.json in Resources */,
+				3DBAC213208D591100A01A5B /* Armor_Chest_Purple.png in Resources */,
+				3DBAC216208D591100A01A5B /* Armor_Gloves_Purple.png in Resources */,
+				3D889FC7208CF97A00807C19 /* RAW_Armor_JSON.json in Resources */,
+				3DBAC21A208D63B200A01A5B /* skills.png in Resources */,
+				3DBAC214208D591100A01A5B /* Armor_Head_Purple.png in Resources */,
+				3D5A1912205765480078768F /* Main.storyboard in Resources */,
+				3DBAC218208D62DF00A01A5B /* Head.png in Resources */,
+				3DBAC212208D591100A01A5B /* Armor_Boots_Purple.png in Resources */,
+				3DBAC215208D591100A01A5B /* Armor_Waist_Purple.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A191B205765480078768F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A1926205765480078768F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D5A1903205765480078768F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D5A1956205EBE7B0078768F /* DesiredSkillTableViewCell.swift in Sources */,
+				3D6ED388206C637E00AA16C7 /* Build.swift in Sources */,
+				3D5A1942205775AC0078768F /* HelperStrings.swift in Sources */,
+				3D5A190F205765480078768F /* DetailViewController.swift in Sources */,
+				3D6ED38C206C641A00AA16C7 /* ReadJSON.swift in Sources */,
+				3D5A1950205BF9A70078768F /* ArmorsViewController.swift in Sources */,
+				3D5A190D205765480078768F /* MasterViewController.swift in Sources */,
+				3DEE2D7F208C16450015C8A3 /* DetailBuildTableViewController.swift in Sources */,
+				3DEE2D7D208BED7B0015C8A3 /* BuildScoreEngine.swift in Sources */,
+				3D5A194E205776FE0078768F /* SkillViewController.swift in Sources */,
+				3D5A190B205765480078768F /* AppDelegate.swift in Sources */,
+				3DBAC207208D3D9500A01A5B /* ArmorTableViewCell.swift in Sources */,
+				3D5A1952205BFA830078768F /* BuildsTableViewController.swift in Sources */,
+				3D5A1945205775AC0078768F /* Skill.swift in Sources */,
+				3DEE2D83208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift in Sources */,
+				3D6ED38E206C9F4700AA16C7 /* Armor.swift in Sources */,
+				3D5A1941205775AC0078768F /* MathSkill.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A1919205765480078768F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D5A1922205765480078768F /* MHWArmorSkillOptimizerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3D5A1924205765480078768F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D5A192D205765480078768F /* MHWArmorSkillOptimizerUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3D5A191F205765480078768F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3D5A1906205765480078768F /* MHWArmorSkillOptimizer */;
+			targetProxy = 3D5A191E205765480078768F /* PBXContainerItemProxy */;
+		};
+		3D5A192A205765480078768F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3D5A1906205765480078768F /* MHWArmorSkillOptimizer */;
+			targetProxy = 3D5A1929205765480078768F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3D5A1910205765480078768F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D5A1911205765480078768F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3D5A1915205765480078768F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D5A1916205765480078768F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3D5A192F205765480078768F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3D5A1930205765480078768F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3D5A1932205765480078768F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QW2H32346C;
+				INFOPLIST_FILE = MHWArmorSkillOptimizer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3D5A1933205765480078768F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QW2H32346C;
+				INFOPLIST_FILE = MHWArmorSkillOptimizer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3D5A1935205765480078768F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = MHWArmorSkillOptimizerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MHWArmorSkillOptimizer.app/MHWArmorSkillOptimizer";
+			};
+			name = Debug;
+		};
+		3D5A1936205765480078768F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = MHWArmorSkillOptimizerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MHWArmorSkillOptimizer.app/MHWArmorSkillOptimizer";
+			};
+			name = Release;
+		};
+		3D5A1938205765480078768F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = MHWArmorSkillOptimizerUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MHWArmorSkillOptimizer;
+			};
+			name = Debug;
+		};
+		3D5A1939205765480078768F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = MHWArmorSkillOptimizerUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MHWArmorSkillOptimizer;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D5A1902205765480078768F /* Build configuration list for PBXProject "MHWArmorSkillOptimizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D5A192F205765480078768F /* Debug */,
+				3D5A1930205765480078768F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D5A1931205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D5A1932205765480078768F /* Debug */,
+				3D5A1933205765480078768F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D5A1934205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D5A1935205765480078768F /* Debug */,
+				3D5A1936205765480078768F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D5A1937205765480078768F /* Build configuration list for PBXNativeTarget "MHWArmorSkillOptimizerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D5A1938205765480078768F /* Debug */,
+				3D5A1939205765480078768F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D5A18FF205765480078768F /* Project object */;
+}
