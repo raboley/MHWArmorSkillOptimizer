@@ -5,6 +5,9 @@
       location = "group:../Documentation"
       name = "Documentation">
       <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
          location = "group:../README.md">
       </FileRef>
       <Group
