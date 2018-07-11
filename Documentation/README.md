@@ -8,7 +8,10 @@ Each piece of gear has separate skills associated with them, and this app helps 
 
 ## How to use
 
-The app is best used on an ipad in horizontal orientation.  
+The app is best used on an ipad in horizontal orientation.
+
+![Ipad_FrontPage](/Documentation/Images/Main-Page.png?raw=true "Main Page")
+
 On the left hand side is the current skills that are desired for the builds being created.
 Start by clicking the plus button in the top right of the screen.  This will open up the available skills.
 Select the skills you want to have in your build and click done.
@@ -19,3 +22,4 @@ Once done the right hand side pane will show the resulting armors ordered by the
 It will show the slot each piece is in, the jewel slots and the name on the left, with the skills and levels on the right.  
 
 Once done with that build you can clear the current skills and try for another build!
+
