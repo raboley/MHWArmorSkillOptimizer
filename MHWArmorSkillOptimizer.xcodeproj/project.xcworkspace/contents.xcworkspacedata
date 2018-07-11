@@ -4,11 +4,17 @@
    <Group
       location = "group:../Documentation"
       name = "Documentation">
+      <FileRef
+         location = "group:../README.md">
+      </FileRef>
       <Group
          location = "group:Images"
          name = "Images">
          <FileRef
             location = "group:Main-Page.png">
+         </FileRef>
+         <FileRef
+            location = "group:/Users/russellboley/Library/Mobile Documents/com~apple~CloudDocs/XCodeProjects/MHWArmorSkillOptimizer/Documentation/Images/Main-Page.png">
          </FileRef>
       </Group>
    </Group>
