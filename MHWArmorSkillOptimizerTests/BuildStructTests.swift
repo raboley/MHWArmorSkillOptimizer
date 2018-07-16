@@ -1,15 +1,15 @@
 //
-//  MHWArmorSkillOptimizerTests.swift
+//  BuildStructTests.swift
 //  MHWArmorSkillOptimizerTests
 //
-//  Created by Russell Boley on 3/12/18.
+//  Created by Russell Boley on 7/15/18.
 //  Copyright © 2018 Russell Boley. All rights reserved.
 //
 
 import XCTest
 @testable import MHWArmorSkillOptimizer
 
-class MHWArmorSkillOptimizerTests: XCTestCase {
+class BuildStructTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
@@ -21,16 +21,11 @@ class MHWArmorSkillOptimizerTests: XCTestCase {
         super.tearDown()
     }
     
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-    }
-    
-    func testPerformanceExample() {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
+    func testInit_BuildWithName() {
+        let testBuild = Build(name: "Test Build")
+        
+        XCTAssertNotNil(testBuild)
+        XCTAssertEqual(testBuild.name, "Test Build")
     }
     
 }

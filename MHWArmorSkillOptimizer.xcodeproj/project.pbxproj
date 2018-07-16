@@ -13,7 +13,6 @@
 		3D5A1912205765480078768F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1910205765480078768F /* Main.storyboard */; };
 		3D5A1914205765480078768F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1913205765480078768F /* Assets.xcassets */; };
 		3D5A1917205765480078768F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D5A1915205765480078768F /* LaunchScreen.storyboard */; };
-		3D5A1922205765480078768F /* MHWArmorSkillOptimizerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */; };
 		3D5A192D205765480078768F /* MHWArmorSkillOptimizerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A192C205765480078768F /* MHWArmorSkillOptimizerUITests.swift */; };
 		3D5A1941205775AC0078768F /* MathSkill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A193C205775AC0078768F /* MathSkill.swift */; };
 		3D5A1942205775AC0078768F /* HelperStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D5A193D205775AC0078768F /* HelperStrings.swift */; };
@@ -39,6 +38,8 @@
 		3DEE2D7D208BED7B0015C8A3 /* BuildScoreEngine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D7C208BED7B0015C8A3 /* BuildScoreEngine.swift */; };
 		3DEE2D7F208C16450015C8A3 /* DetailBuildTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D7E208C16450015C8A3 /* DetailBuildTableViewController.swift */; };
 		3DEE2D83208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEE2D82208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift */; };
+		3DF2B8C120FC3D0C00943B7D /* BuildStructTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF2B8C020FC3D0C00943B7D /* BuildStructTests.swift */; };
+		3DF2B8C320FC415E00943B7D /* ReadJSONTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF2B8C220FC415E00943B7D /* ReadJSONTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +69,6 @@
 		3D5A1916205765480078768F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D5A1918205765480078768F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D5A191D205765480078768F /* MHWArmorSkillOptimizerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHWArmorSkillOptimizerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHWArmorSkillOptimizerTests.swift; sourceTree = "<group>"; };
 		3D5A1923205765480078768F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D5A1928205765480078768F /* MHWArmorSkillOptimizerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MHWArmorSkillOptimizerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D5A192C205765480078768F /* MHWArmorSkillOptimizerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MHWArmorSkillOptimizerUITests.swift; sourceTree = "<group>"; };
@@ -97,6 +97,8 @@
 		3DEE2D7C208BED7B0015C8A3 /* BuildScoreEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildScoreEngine.swift; sourceTree = "<group>"; };
 		3DEE2D7E208C16450015C8A3 /* DetailBuildTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBuildTableViewController.swift; sourceTree = "<group>"; };
 		3DEE2D82208C3A990015C8A3 /* DetailBuildSkillTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBuildSkillTableViewController.swift; sourceTree = "<group>"; };
+		3DF2B8C020FC3D0C00943B7D /* BuildStructTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildStructTests.swift; sourceTree = "<group>"; };
+		3DF2B8C220FC415E00943B7D /* ReadJSONTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJSONTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,8 +173,9 @@
 		3D5A1920205765480078768F /* MHWArmorSkillOptimizerTests */ = {
 			isa = PBXGroup;
 			children = (
-				3D5A1921205765480078768F /* MHWArmorSkillOptimizerTests.swift */,
 				3D5A1923205765480078768F /* Info.plist */,
+				3DF2B8C020FC3D0C00943B7D /* BuildStructTests.swift */,
+				3DF2B8C220FC415E00943B7D /* ReadJSONTests.swift */,
 			);
 			path = MHWArmorSkillOptimizerTests;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 					};
 					3D5A191C205765480078768F = {
 						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 0940;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 3D5A1906205765480078768F;
 					};
@@ -392,7 +396,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D5A1922205765480078768F /* MHWArmorSkillOptimizerTests.swift in Sources */,
+				3DF2B8C120FC3D0C00943B7D /* BuildStructTests.swift in Sources */,
+				3DF2B8C320FC415E00943B7D /* ReadJSONTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -581,11 +586,13 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MHWArmorSkillOptimizerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "RAB-inc.MHWArmorSkillOptimizerTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MHWArmorSkillOptimizer.app/MHWArmorSkillOptimizer";
@@ -597,6 +604,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MHWArmorSkillOptimizerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

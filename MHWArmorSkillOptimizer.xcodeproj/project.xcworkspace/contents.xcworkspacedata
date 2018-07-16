@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "group:../Documentation"
-      name = "Documentation">
-      <FileRef
-         location = "group:README.md">
-      </FileRef>
-      <Group
-         location = "group:Images"
-         name = "Images">
-         <FileRef
-            location = "group:Main-Page-Build-Armor.png">
-         </FileRef>
-         <FileRef
-            location = "group:Main-Page-Build-Skills.png">
-         </FileRef>
-         <FileRef
-            location = "group:Main-Page-BuildsScored.png">
-         </FileRef>
-         <FileRef
-            location = "group:Main-Page-SkillsSelected.png">
-         </FileRef>
-         <FileRef
-            location = "group:Select-Skills.png">
-         </FileRef>
-         <FileRef
-            location = "group:/Users/russellboley/Library/Mobile Documents/com~apple~CloudDocs/XCodeProjects/MHWArmorSkillOptimizer/Documentation/Images/Main-Page.png">
-         </FileRef>
-      </Group>
-   </Group>
-   <FileRef
-      location = "group:../README.md">
-   </FileRef>
    <FileRef
       location = "self:">
    </FileRef>
